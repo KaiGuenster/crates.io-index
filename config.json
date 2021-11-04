@@ -1,4 +1,4 @@
 {
-  "dl": "https://crates.io/api/v1/crates",
-  "api": "https://crates.io"
+  "dl": "http://192.168.122.121:8855/api/v1/mirror",
+  "api": "https://192.168.122.121:8855"
 }
